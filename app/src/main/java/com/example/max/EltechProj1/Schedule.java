@@ -20,6 +20,7 @@ public class Schedule extends MainActivity {
     private static final int LAYOUT = R.layout.activity_schedule;
     private TabsPagerFragmentAdapter adapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         setTheme(R.style.AppDefault);
